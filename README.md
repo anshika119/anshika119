@@ -1,24 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&width=435&lines=Hey....sup?👋,I'm..Anshika!)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshika-singh-kaush911/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/aaaaanshikkkkkaa/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/bard/bard/raw/main/images/profile.png" alt="Anshika Singh's GitHub profile">
-</p>
-
-<br>
 
 # 💫 About Me:- 
 I'm a third-year student at VIT Bhopal with a passion for coding. I'm fluent in HTML, CSS, JavaScript, and Java, and I'm eager to learn and grow as a developer. I'm currently learning Java Advance. I'm looking to collaborate on projects.
+
+## 🌐 Social Accounts:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aaaaanshikkkkkaa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-singh-kaush911/)
 
 ## ✨ Skills:
 * HTML
