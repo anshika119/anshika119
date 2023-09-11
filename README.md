@@ -44,7 +44,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello, I'm [Your Name]</h1>
+        <h1>Hello, I'm ANSHIKA SINGH</h1>
         <p>I'm a third-year student at VIT Bhopal with a passion for coding. I'm fluent in HTML, CSS, JavaScript, and Java, and I'm eager to learn and grow as a developer.</p>
         <a href="[Your GitHub Profile URL]" class="button">Visit My GitHub</a>
     </div>
