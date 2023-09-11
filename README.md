@@ -18,7 +18,7 @@ I'm a third-year student at VIT Bhopal with a passion for coding. I'm fluent in 
 [![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=Java)](https://www.java.com/en/)
 
 ## 🔗 Projects:
-* [My Portfolio]([https://github.com/anshika119])
+* [My Portfolio](https://github.com/anshika119)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square)](https://anshikasingh.github.io/)
 
 ## 🤝 Collaboration:
