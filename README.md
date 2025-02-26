@@ -8,12 +8,13 @@ I'm a final-year Computer Science Engineering student at VIT Bhopal with a passi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aaaaanshikkkkkaa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika911/)
 
 ## ✨ Skills:
-* HTML
-[![HTML5](https://img.shields.io/badge/HTML5-E34F2C.svg?style=flat-square&logo=HTML5)](https://html5.org/)
-* CSS
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3)](https://www.w3schools.com/css/)
-* JavaScript
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### **Frontend**
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
+
 * Java
 [![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=Java)](https://www.java.com/en/)
 
