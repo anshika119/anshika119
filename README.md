@@ -48,7 +48,7 @@ I'm a final-year Computer Science Engineering student at VIT Bhopal with a passi
 I'm always looking for new opportunities to collaborate on projects. If you have a project that you think I would be a good fit for, please reach out to me.
 
 ## 📫 Contact Me:
-* anshikasihgh@gmail.com
+* anshika9112002@gmail.com
 * +91 9170852211
 
 <br>
